@@ -1,4 +1,4 @@
-package com.ineuron.pattern;
+package com.ineuron.pattern.assignment1;
 
 import java.util.Scanner;
 
